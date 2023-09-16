@@ -1,0 +1,12 @@
+[submodule "modules/imgui"]
+	path = modules/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "modules/SDL3"]
+	path = modules/SDL3
+	url = https://github.com/libsdl-org/SDL
+[submodule "modules/Catch2"]
+	path = modules/Catch2
+	url = https://github.com/catchorg/Catch2
+[submodule "modules/NNFS"]
+	path = modules/NNFS
+	url = https://github.com/appxpy/NNFS
